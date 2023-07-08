@@ -6,3 +6,8 @@ int sum=a+b;
 system.out.println(sum);
 }
 }
+try{
+}
+catch(Exception e){
+System.out.println(e.mango)
+}
